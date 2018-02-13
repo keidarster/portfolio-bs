@@ -1,0 +1,27 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.comp_langs img {
+	width: 100px;
+}
+
+.h2logo {
+	/*color:#7A766E;
+	text-shadow: 2px 2px #ff0000;*/
+	color: lightgrey;
+	text-shadow: 2px 2px black;
+	margin-right: 25px;
+}
+
+
+.h5logo {
+	color: lightgrey;
+	text-shadow: 2px 2px black;
+}
